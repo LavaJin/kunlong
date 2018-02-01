@@ -12,7 +12,7 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="{{ asset('pc/image/banner01.jpg') }}" alt="" class="img-responsive center-block">
+                                    <img src="{{ asset('pc/image/banner02.jpg') }}" alt="" class="img-responsive center-block">
                                 </div>
                                 <div class="item">
                                     <img src="{{ asset('pc/image/banner02.jpg') }}" alt="" class="img-responsive center-block">
