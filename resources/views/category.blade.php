@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="col-lg-10 ProductDetails">
-                <h3 class="ProductList">{{ $cate->name }}列表</h3>
+                <h3 class="ProductList">{{ $cate->name }}</h3>
                 <div class="ProductContent">
                     @if($news->count())
                         @foreach($news as $item)
