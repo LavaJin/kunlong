@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <span class="navbar-brand">宜宝设备制造有限公司 后台管理</span>
+        <span class="navbar-brand">无锡坤龙工程机械有限公司 后台管理</span>
     </div>
     <!-- /.navbar-header -->
 
