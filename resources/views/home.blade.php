@@ -55,6 +55,7 @@
             <div class="text-center" style="padding: 20px 0;">
                 <span style="color: #0055ab;">产品中心 </span>
                 <span style="color: #949494"> |  Product center</span>
+
             </div>
         </div>
     </div>
@@ -67,6 +68,7 @@
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 10px;">
                 <img src="{{ asset('pc/image/img1.jpg') }}" alt="">
+                <span>无锡坤龙工程机械有限公司是一家拥有新型振动锤高新技术研发中心的高新技术企业，致力于桩工机械的研发与销售，通过对整套挖掘机沉拔桩工作系统的深入研究，利用专业的设计软件全新设计，进行有限元分析、动态模拟、焊接工艺分析等，最大限度保证整套系统设计的合理性，使设备具有低重量、高激振力、低噪音、低磨损、高寿命等特性.</span>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
@@ -74,9 +76,11 @@
                 <span>经典案例</span>
                 <span> | </span>
                 <span style="color: #949494">Case</span>
+
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 10px;">
                 <img src="{{ asset('pc/image/img2.jpg') }}" alt="">
+                <span>公司产品在上海、杭州、海门等多地销售，深得客户好评。在市政、桥梁、铁路、湖泊围堰、建筑地基等中短桩工程，用于打拔平板桩、槽钢、工字钢、水泥方桩、圆筒桩及各种形状拉森桩，在现阶段由于产品大偏心力矩的设计，使得在施工水泥桩有突出优势，在业界有良好的口碑.</span>
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
@@ -87,6 +91,7 @@
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 10px;">
                 <img src="{{ asset('pc/image/img3.jpg') }}" alt="">
+                <span>公司生产的高频液压振动沉拔桩锤是专门搭配挖掘机使用，有效利用挖掘机的液压动力及充分发挥挖掘机的机动性强, 操作灵活的特性使桩基工程施工迈向新阶段,大幅节约施工成本,提高工作效率 让您的挖掘机实现一机多用，提高投资效益.</span>
             </div>
         </div>
     </div>
