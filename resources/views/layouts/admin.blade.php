@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>江苏宜宝设备制造有限公司-后台管理</title>
+    <title>无锡坤龙工程机械有限公司-后台管理</title>
 
     @include('commons/css')
 
