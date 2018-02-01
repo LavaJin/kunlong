@@ -13,13 +13,13 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <h4 class="text-center">联系我们</h4>
-                    <div class="page-header text-center">
-                        <h5>电话：0510-86189858</h5><br>
-                        <h5>传真：0510-86175288</h5><br>
-                        <h5>地址：江苏省江阴市锡澄路1008号</h5><br>
-                    </div>
+                {{--<div class="col-lg-12">--}}
+                    {{--<h4 class="text-center">联系我们</h4>--}}
+                    {{--<div class="page-header text-center">--}}
+                        {{--<h5>电话：0510-86189858</h5><br>--}}
+                        {{--<h5>传真：0510-86175288</h5><br>--}}
+                        {{--<h5>地址：江苏省江阴市锡澄路1008号</h5><br>--}}
+                    {{--</div>--}}
                 </div>
                 <div class="col-lg-12">
                     <h4 class="text-center">在线留言</h4>

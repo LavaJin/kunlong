@@ -61,7 +61,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <img class="navbar-brand" src="{{ asset('pc/image/logos.png') }}" alt="">
-                <a class="navbar-brand  visible-lg-block visible-md-block " href="/">江苏宜宝设备制造有限公司</a>
+                <a class="navbar-brand  visible-lg-block visible-md-block " href="/">无锡坤龙工程机械有限公司</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav" id="navbar-nav-ul">
@@ -70,7 +70,7 @@
                     @foreach($categories as $category)
                         <li><a class="animated" href="/category/{{ $category->id }}">{{ $category->name }}</a></li>
                     @endforeach
-                    <li><a class="animated" href="/case">成功案例</a></li>
+                    {{--<li><a class="animated" href="/case">成功案例</a></li>--}}
                     <li><a class="animated" href="/contact">联系我们</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
@@ -106,10 +106,10 @@
 @yield('content')
 <footer style="background: #323232;color: #fff;margin-top: 50px;padding: 20px 0px;">
     <div class="container">
-        <p class="text-center">江苏宜宝设备制造有限公司</p>
-        <p class="text-center">电话：0510-86189858</p>
-        <p class="text-center">传真：0510-86175288</p>
-        <p class="text-center">地址：江苏省江阴市锡澄路1008号</p>
+        <p class="text-center">无锡坤龙工程机械有限公司</p>
+        <p class="text-center">联系人：俞经理</p>
+        <p class="text-center">传真：18601576080</p>
+        <p class="text-center">地址：无锡市双河村大庄1号</p>
     </div>
 </footer>
 <script src="{{ asset('pc/js/jquery-3.2.1.js') }}"></script>
