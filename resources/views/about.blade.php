@@ -28,10 +28,13 @@
                 <li><a href="#b" data-toggle="tab">公司资质</a></li>
             </ul>
             <ul class="tab-content">
-                <li id="a" class="tab-pane active"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江苏宜宝设备制造有限公司成立于2015年，总投资1500万，主要从事节能设备—板式换热器以及换热机组，蒸发冷凝设备及其系统的生产、研发、制造、销售、安装服务的企业，致力于高效传热节能技术创新，提供蒸发浓缩结晶分离整体解决方案。现有员工60多人，其中专业技术人员10人，专业研发人员5人，厂区面积5000平方，年生产能力换热器5000台，系统集成300套。企业通过国际质量 ISO9001-：2000认证，产品遵照国际生产，同时满足如ASME，JIS，CE-PED等各国标准和规范。 江苏宜宝制造有限公司凭借数年来对研发工作持续不断的投入和遍布国内多套已安装运行的蒸发装置的成功经验，为客户提供最广泛的专门技术和最佳解决方案。在食品、医药、生物、环保、化工等诸多领域拥有众多客户。</li>
+                <li id="a" class="tab-pane active"> &nbsp;&nbsp;&nbsp;
+                    无锡坤龙工程机械有限公司是一家拥有新型振动锤高新技术研发中心的高新技术企业，致力于桩工机械的研发与销售，公司拥有强大的研发中心，
+                    通过对整套挖掘机沉拔桩工作系统的深入研究,利用专业的设计软件全新设计，进行有限元分析、动态模拟、焊接工艺分析等，最大限度保证整套系统
+                    设计的合理性,使设备具有低重量、高激振力、低噪音、低磨损、高寿命等特性</li>
                 <li id="b" class="tab-pane">
-                    <img class="img-responsive center-block " src="{{ asset('pc/image/z1.png') }}">
-                    <img class="img-responsive center-block " src="{{ asset('pc/image/z2.jpg') }}">
+                    {{--<img class="img-responsive center-block " src="{{ asset('pc/image/z1.png') }}">--}}
+                    {{--<img class="img-responsive center-block " src="{{ asset('pc/image/z2.jpg') }}">--}}
                 </li>
             </ul>
         </div>

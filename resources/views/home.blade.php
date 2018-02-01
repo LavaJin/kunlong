@@ -39,7 +39,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 Mycol">
                 <p class="text-center">
-                    <a href=""><span style="color: #0055ab;">公司简介 </span></a>
+                    <a href="/about"><span style="color: #0055ab;">公司简介 </span></a>
                     <span style="color: #949494"> |  About us</span>
                     <a href="/about"><span class="glyphicon glyphicon-arrow-right"></span></a>
                 </p>
