@@ -60,7 +60,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <img class="navbar-brand" src="{{ asset('pc/image/logos.png') }}" alt="">
+                <img class="navbar-brand" src="{{ asset('pc/image/logo.png') }}" alt="">
                 <a class="navbar-brand  visible-lg-block visible-md-block " href="/">无锡坤龙工程机械有限公司</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
